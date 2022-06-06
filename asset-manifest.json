@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/classRobots/static/css/main.55bbba40.css",
+    "main.js": "/classRobots/static/js/main.60daa3fd.js",
+    "static/media/SEGA.woff": "/classRobots/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/classRobots/index.html",
+    "main.55bbba40.css.map": "/classRobots/static/css/main.55bbba40.css.map",
+    "main.60daa3fd.js.map": "/classRobots/static/js/main.60daa3fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55bbba40.css",
+    "static/js/main.60daa3fd.js"
+  ]
+}
